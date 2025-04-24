@@ -1,6 +1,6 @@
 # Data Augmentation Deep Learning Model with Tensorflow and CIFAR-10
 
-## A deep learning model that achieves 57& accuracy on the CIFAR-10 dataset with data augmentation techniques.
+## A deep learning model that achieves 57% accuracy on the CIFAR-10 dataset with data augmentation techniques.
 
 This project was built on Python3.12 using native Windows. Using a GPU-accelerated environment is advised as model training is a limitation of this project.
 
